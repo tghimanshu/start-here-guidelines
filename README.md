@@ -1,60 +1,68 @@
-Guidelines on how this open source community works :)
- 
-Read below to see how you can join an existing project or create your own.
+# Zero to Mastery - Start Here Guidelines
 
-## One rule of this community:
-We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects.
+Welcome to the **Start Here Guidelines** repository! This is the starting point for your journey into open source contributions within the Zero to Mastery (ZTM) community.
 
-## 4 Step guide to get started:
-**1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli.
+## 🎯 Purpose
 
-**2**. Make your first Pull Request (check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/), by adding your name to the `CONTRIBUTORS.md` file in the [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) project.
+The primary goal of this repository is to provide a **safe playground** for students and first-time contributors to practice the open source workflow. Here, you can learn how to:
+-   Fork a repository
+-   Clone it to your local machine
+-   Create a branch
+-   Make changes (commit)
+-   Push changes
+-   Create a Pull Request (PR)
 
-**3**. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get%20Started.md) for more information on selecting a project. 
+We encourage you to "fail often" here so you can succeed in real-world projects later!
 
-**4**. In order to see the Zero to Mastery Icon in your Github profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
- 
-## Anatomy of an open source project:
-Every open source community is different.
+## 🚀 Getting Started
 
-Spending years on one open source project means you’ve gotten to know _one_ open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+To get your name on the board and make your first contribution, follow these simple steps:
 
-That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+1.  **Read the Guide**: Start with the [Git Started Guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by @wanraitelli.
+2.  **Make Your First PR**: Add your name to the `CONTRIBUTORS.md` file. You can find a tutorial [here](http://makeapullrequest.com/) or watch [Andrei's video](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/).
+3.  **Join a Project**: Once you're comfortable, check out the [Current Projects](https://github.com/zero-to-mastery) available in the community. Read [Get Started.md](./Get%20Started.md) for more details.
+4.  **Show Off**: Follow [these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) to display the Zero to Mastery icon on your GitHub profile!
 
-A typical open source project has the following types of people:
+## 📜 Community Rules
 
-**Author**: The person/s or organization that created the project.
+**The One Rule**:
+> We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students.
 
-**Owner**: The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
+Please also adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-**Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project (may also be authors or owners of the project).
+## 📂 Repository Structure
 
-**Contributors**: Everyone who has contributed something back to the project.
+*   `README.md`: This file. The main entry point.
+*   `CONTRIBUTORS.md`: A list of all the wonderful people who have contributed to this repo. This is where you will add your name!
+*   `Get Started.md`: A detailed guide on how to get started with open source and join community projects.
+*   `CODE_OF_CONDUCT.md`: Rules and standards for being a respectful member of the community.
 
-**Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
+## 🧠 Anatomy of an Open Source Project
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information.
+If you are new to open source, here are some terms you will encounter:
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+*   **Author**: The person/organization that created the project.
+*   **Owner**: The admin owner of the repo.
+*   **Maintainers**: Contributors responsible for managing the project.
+*   **Contributors**: Everyone who has contributed code or docs.
+*   **Community Members**: Users and participants in discussions.
 
-**LICENSE**: By definition, every open source project must have an open source license. If the project does not have a license, it is not open source.
+### Documentation Files
+*   **LICENSE**: Defines how the software can be used.
+*   **README**: The instruction manual (you are reading one!).
+*   **CONTRIBUTING**: Specific instructions on how to contribute to that project.
+*   **CODE_OF_CONDUCT**: Behavioral standards.
 
-**README**: The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
+## 🛠 Tools
 
-**CONTRIBUTING**: Whereas READMEs help people use the project, contributing docs help people contribute to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
+*   **Issue Tracker**: For discussing bugs and features.
+*   **Pull Requests**: For discussing and reviewing code changes.
+*   **Discord**: Join the ZTM Discord for real-time chat.
 
-**CODE_OF_CONDUCT**: The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
+## 📚 Resources
 
-**Other documentation**: There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+*   [Zero to Mastery Course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+*   [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
-
-**Issue tracker**: Where people discuss issues related to the project.
-
-**Pull requests**: Where people discuss and review changes that are in progress.
-
-**Discussion forums or mailing lists**: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
-
-**Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.    
-
-**Buy Andrei's course**: [Here](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) it helps you a lot.
+---
+*Happy Coding!*
